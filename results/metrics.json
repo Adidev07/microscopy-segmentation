@@ -1,0 +1,8 @@
+{
+  "project": "Neural Microscopy Foreground Segmentation",
+  "test_iou": 0.908256880733945,
+  "intensity_baseline_iou": 0.782258064516129,
+  "selected_threshold": 0.2,
+  "training_images": 10,
+  "split": "Independent whole images for training, validation and test"
+}
